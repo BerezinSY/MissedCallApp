@@ -129,24 +129,24 @@
 			path = ClientDetailViewModelTypes;
 			sourceTree = "<group>";
 		};
-		2563ABF72607C9DC008C70B3 /* DetailViewModel */ = {
+		2563ABF72607C9DC008C70B3 /* ClientDetail */ = {
 			isa = PBXGroup;
 			children = (
 				2563ABE526076C04008C70B3 /* ClientDetailViewModelTypes */,
 				2563ABE426076BE2008C70B3 /* ClientDetailViewModels */,
 				2563ABE326076BC4008C70B3 /* ClientDetailViews */,
 			);
-			path = DetailViewModel;
+			path = ClientDetail;
 			sourceTree = "<group>";
 		};
-		2563ABF92607C9F5008C70B3 /* CollectionViewModel */ = {
+		2563ABF92607C9F5008C70B3 /* ClientCollection */ = {
 			isa = PBXGroup;
 			children = (
 				2563ABD726075F0B008C70B3 /* ClientCollectionViewModelTypes */,
 				2563ABD626075EFF008C70B3 /* ClientCollectionViewModels */,
 				2563ABD526075EF7008C70B3 /* ClientCollectionViews */,
 			);
-			path = CollectionViewModel;
+			path = ClientCollection;
 			sourceTree = "<group>";
 		};
 		2563ABFD2607CA2A008C70B3 /* Foundation+Ext */ = {
@@ -180,8 +180,8 @@
 				25FFCE322606868F00D6A33E /* Builder.swift */,
 				25FFCE30260682A500D6A33E /* API */,
 				2563ABD426075EE8008C70B3 /* Model */,
-				2563ABF92607C9F5008C70B3 /* CollectionViewModel */,
-				2563ABF72607C9DC008C70B3 /* DetailViewModel */,
+				2563ABF92607C9F5008C70B3 /* ClientCollection */,
+				2563ABF72607C9DC008C70B3 /* ClientDetail */,
 				25656BAF2605C19700289EFF /* UIKit+Ext */,
 				2563ABFD2607CA2A008C70B3 /* Foundation+Ext */,
 				25656B9B2605C09900289EFF /* Assets.xcassets */,
